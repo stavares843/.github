@@ -2,7 +2,7 @@
   <img src="/satellite.png" alt="Screenshot of Satellite.im" />
 </p>
 
-## Multiplatform Messaging,
+### Multiplatform Messaging,
 ### Trackers Not Included.
 
 **Satellite gives you peace of mind with end-to-end
