@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://satellite.im/images/logo.webp" width=200 height=200/>
+  <img src="https://satellite.im/images/logo.webp" width=300 />
 </h1>
 
 
