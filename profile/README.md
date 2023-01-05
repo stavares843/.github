@@ -1,11 +1,8 @@
 <h1 align="center">
   <img src="https://satellite.im/images/logo.webp" width=300 />
+  <br />
+  <h4 align="center">Satellite builds privacy first, modular, P2P platforms and tools, primarily built atop Warp.</h4>
 </h1>
-
-
-<h4 align="center">Satellite builds privacy first, modular, P2P platforms and tools, primarily built atop Warp.</h4>
-
-<br/>
 
 <h4>Our "flagship" product is Uplink.</h4>
 
