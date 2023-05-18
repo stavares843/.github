@@ -4,10 +4,8 @@
 
 ---
 
-<h4>Our "flagship" product is Uplink.</h4>
+<h4>Our primary projects are [Uplink](https://github.com/Satellite-im/Uplink) and [Warp](https://github.com/Satellite-im/Warp).</h4>
 
-Uplink is written in pure Rust with a UI in [Dioxus](https://github.com/DioxusLabs) (which is also written in Rust). It was developed to be a new foundation for the basic implementation of Warp features in a universal application.
-
-The goal should be to build a hyper-customizable application that can run anywhere and support extensions.
+Warp is our Interface First, Platform Agnostic Peer Driven architecture that is designed to add decentralized communication abilities anywhere. To showcase this, Uplink is our decentralzied chat application, designed to be hyper-customizable, run anywhere, and support extensions.
 
 ![Uplink UI](https://i.imgur.com/X4AGeLz.png)
