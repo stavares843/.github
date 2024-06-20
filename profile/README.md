@@ -38,6 +38,5 @@ Satellite IM offers several advantages that make it a promising platform for sec
 ## Community and Ecosystem
 
 - **Focused on Crypto Communities**: Satellite IM is designed to cater to the needs of crypto communities by offering crypto-native features and a decentralized backend. This focus helps it serve a specific user base more effectively than general-purpose messaging platforms like Discord [source](https://cryptonews.net/news/blockchain/22562181/) [source](https://cryptonews.net/news/blockchain/22562181/).
-- **Funding and Support**: With significant backing from venture funds and investors, Satellite IM has the resources to continue developing and expanding its platform, ensuring ongoing improvements and sustainability [source](https://cryptonews.net/news/blockchain/22562181/) [source](https://cryptonews.net/news/blockchain/22562181/).
 
 Overall, Satellite IM's combination of privacy, security, high-quality communication, flexibility, and community focus makes it a compelling choice for users seeking a secure and decentralized messaging platform.
